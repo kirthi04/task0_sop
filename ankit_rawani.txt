@@ -1,1 +1,11 @@
 git clone <remote repo path> - to clone the remote repo to my local system
+
+git branch <branch_name> - creates a new branch
+git branch - shows all the branches and highlights the current branch
+touch <filename> - creates a new file
+git merge <branch> - merges the <branch> with current branch
+git switch <branch> or git checkout <branch> - switches to <branch>
+mv <old> <new> - used to move a file from one location to another, can be used to rename a file too.
+git pull - to pull the most recent changes from the remote repo
+git push origin <branch_name> - pushes the modifications to local repo to the remote repo in the specified branch.
+nano or vi - text editors to open a file
