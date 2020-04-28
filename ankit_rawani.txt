@@ -1,0 +1,1 @@
+git clone <remote repo path> - to clone the remote repo to my local system
