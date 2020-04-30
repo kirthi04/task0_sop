@@ -1,4 +1,5 @@
 
+
 -> git clone <remote repo link> - Clones the remote repo onto my local system
 
 -> git checkout -b <branchname> - Creates a new branch and switches to that branch
@@ -16,3 +17,13 @@
 -> git status - Gives the status of the file in the branch
 
 -> 
+
+Egg
+
+This question appears regularly in the question file, so let's take a shot at it.
+
+In nature, living things evolve through changes in their DNA. In an animal like a chicken, DNA from a male sperm cell and a female ovum meet and combine to form a zygote -- the first cell of a new baby chicken. This first cell divides innumerable times to form all of the cells of the complete animal. In any animal, every cell contains exactly the same DNA, and that DNA comes from the zygote.
+Chickens evolved from non-chickens through small changes caused by the mixing of male and female DNA or by mutations to the DNA that produced the zygote. These changes and mutations only have an effect at the point where a new zygote is created. That is, two non-chickens mated and the DNA in their new zygote contained the mutation(s) that produced the first true chicken. That one zygote cell divided to produce the first true chicken.
+
+Prior to that first true chicken zygote, there were only non-chickens. The zygote cell is the only place where DNA mutations could produce a new animal, and the zygote cell is housed in the chicken's egg. So, the egg must have come first.
+
