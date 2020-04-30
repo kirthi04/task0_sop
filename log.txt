@@ -10,3 +10,5 @@ git pull - to pull the most recent changes from the remote repo
 git add . - adds changes in the working directory to the staging area
 git commit -m message - captures the state of a project at that point in time 
 			NOTE:Git Snapshots are always committed to the local repository.
+Egg
+Since egg has been a fossilfuel for long time, a chick should have hatched out of an egg which resulted due to evolution of different organism.
