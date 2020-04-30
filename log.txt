@@ -1,0 +1,18 @@
+
+-> git clone <remote repo link> - Clones the remote repo onto my local system
+
+-> git checkout -b <branchname> - Creates a new branch and switches to that branch
+
+->echo.> <filename.txt> - Creates a new file
+
+-> git add . - Adds all changes to the staging area
+
+-> git commit -m "What has been committed" - Commits the changes
+
+-> git checkout <branchname> - Switches to the particular branch
+
+-> git merge <branchname> - Merges the current branch name and the specified branchname
+
+-> git status - Gives the status of the file in the branch
+
+-> 
