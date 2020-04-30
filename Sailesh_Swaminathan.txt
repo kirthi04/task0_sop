@@ -16,7 +16,9 @@
 
 -> git status - Gives the status of the file in the branch
 
--> 
+-> git pull - Pulls latest changes in the repo
+
+-> git push - To push the changes to the remote repo
 
 Egg
 
