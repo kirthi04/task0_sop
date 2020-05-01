@@ -1,0 +1,14 @@
+git clone
+  A repository is created and the contents from an already existing repository is cloned to it.
+git branch [branch-name]
+  A new branch is created
+created log.txt( using ls,cd)
+git branch [branch-name]
+  A new branch named oneword is created
+git branch [branch-name]
+  A new branch named explanation is created
+git checkout [branchname]
+git merge [branchname]
+   Above 2 commands are used to merge the two branches
+git commit
+   Commit changes 
